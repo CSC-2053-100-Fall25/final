@@ -1,2 +1,16 @@
-# The CSC 2053 Final
+# CSC 2053 Final Exam
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CSC-2053-100-Fall25/final/blob/main/CSC_2053_Final_Exam.ipynb)
+
+## Instructions
+
+1. Click the "Open in Colab" badge above to open the final exam in Google Colab
+2. Complete all questions in the notebook
+3. When finished, download your completed notebook:
+   - Click **File > Download > Download .ipynb**
+4. Upload the downloaded file to your GitHub Classroom repository
+5. Verify that the file has been successfully uploaded to your repo
+
+That's it! Once your notebook is in your GitHub repo, you're all set.
+
+Good luck!
